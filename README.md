@@ -7,7 +7,7 @@
 
 ---
 
-✅ 36 years old, based in **Potsdam, Germany**  
+✅ 38 years old, based in **Potsdam, Germany**  
 ✅ **Master's in Computer Science** (Germany)  
 ✅ **MBA in International Business** (France/Egypt)  
 ✅ 15+ years in Software Development  
@@ -50,7 +50,7 @@ Languages: **C#, ASP.NET, Python, SQL Server, HTML**
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AntoniousShehata&show_icons=true&theme=default" width="48%" />
