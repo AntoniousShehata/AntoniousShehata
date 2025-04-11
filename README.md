@@ -7,7 +7,7 @@
 
 ---
 
-✅ Full Stack Developer, web designer and Database developer
+✅ Full Stack Developer, web designer and Database developer   
 ✅ **Master's in Computer Science** (Germany)  
 ✅ **MBA in International Business** (France/Egypt)  
 ✅ 15+ years in Software Development  
