@@ -9,8 +9,8 @@
 
 ✅ Full Stack Developer, web designer and Database developer   
 ✅ **Master's in Computer Science** (Germany)  
-✅ **MBA in International Business** (France/Egypt)  
-✅ 15+ years in Software Development  
+✅ **MBA in International Business** (France)  
+✅ Experince in Software Development, website design and data analysis 
 Languages: **C#, ASP.NET, Python, SQL Server, HTML**
 
 ---
