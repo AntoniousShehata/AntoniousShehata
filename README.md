@@ -11,6 +11,7 @@
 ✅ **Master's in Computer Science** (Germany)  
 ✅ **MBA in International Business** (France)  
 ✅ Experince in Software Development, website design and data analysis 
+
 Languages: **C#, ASP.NET, Python, SQL Server, HTML**
 
 ---
