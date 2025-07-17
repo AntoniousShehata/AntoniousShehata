@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Antonious Shehata
 
-🎯 .NET Full Stack Engineer | Enterprise Systems Architect | Digital Transformation Specialist
+🎯 .NET Full Stack Engineer | React Developer | Cloud & Data Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-shehata/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:antoniousmaher@gmail.com)
@@ -11,61 +11,97 @@
 
 ## 🧾 About Me
 
-✅ Senior Software Engineer with 10+ years building secure, scalable enterprise platforms  
-✅ Specialized in **.NET (ASP.NET MVC, C#)**, **SQL Server**, **Microservices**, and **REST APIs**  
-✅ Master's in Computer Science (Germany) | MBA in International Business (France)  
-✅ Currently based in **Potsdam / Berlin**, open to **full-time positions** in Germany  
+✅ .NET Full Stack Developer with 10+ years of enterprise experience  
+✅ Skilled in building secure, scalable platforms using modern backend and frontend tech  
+✅ Academic background: Master's in Computer Science (Germany), MBA in International Business (France)  
+✅ Open to full-time roles in **Berlin / Potsdam / Remote (Germany)**  
 
 ---
 
-## 💡 Tech Stack
-
-### 🔹 Backend
-- **C#, ASP.NET MVC / Core**, Web API  
-- **Microservices**, JWT, RESTful APIs  
-- **SQL Server**, MySQL, MongoDB  
-- **Entity Framework**, LINQ, ADO.NET  
+## 💼 Tech Stack
 
 ### 🔹 Frontend
 - **HTML5, CSS3, JavaScript (ES6+)**  
-- **React.js**, Bootstrap, Tailwind CSS  
-- **Responsive Design**  
+- **React.js** (SPA, Hooks, State Management)  
+- Responsive Design: **Bootstrap**, **Tailwind CSS**  
+- **RESTful API Integration**, Cross-Browser Compatibility  
+
+### 🔹 Backend
+- **C#, .NET (ASP.NET Core, MVC)**  
+- **REST API Development**, Microservices Architecture  
+- Authentication: **JWT**, **OAuth2**  
+
+### 🔹 Database
+- **SQL**: MS SQL Server, MySQL  
+- **NoSQL**: MongoDB  
+- Database Design, Query Optimization  
 
 ### 🔹 DevOps & Cloud
-- **Docker**, GitHub Actions  
-- **Azure App Services**, Azure Blob  
-- **AWS S3-compatible Storage**  
+- CI/CD: **GitHub Actions**, **GitLab Pipelines**  
+- Containers: **Docker**  
+- Event-Driven Systems: **Kafka**  
+- Cloud Platforms: **Azure** (App Services, Blob Storage), **AWS** (S3-compatible)  
 
-### 🔹 Tools & Reporting
-- **Crystal Reports**, Power BI, Tableau  
-- **Postman**, Git, Visual Studio  
+### 🔹 Testing
+- Unit Testing: **NUnit**, **xUnit**  
+- Integration Testing  
 
----
+### 🔹 Version Control & PM
+- **Git** (GitHub, GitLab)  
+- Agile / Scrum  
 
-## 🚀 Projects That Matter
-
-🔸 **Parliament ERP System**  
-_Integrated 4 modules (procurement, logistics, pharmacy, finance) serving 4,000+ users_  
-- Reduced manual corrections by 65%  
-- Migrated legacy data into a unified SQL system  
-
-🔸 **Employee & Document Management Platform**  
-- Developed full-stack .NET system for HR and archiving workflows  
-- Applied microservices for modular functionality  
-
-🔸 **Biometric Attendance System**  
-- Integrated fingerprint SDKs with C# and SQL Server  
-- Enabled real-time tracking and automated reporting  
-
-🔸 **React Dashboard with Azure**  
-- Built real-time analytics with React + .NET + Azure SQL  
-- Used Power BI for advanced reporting  
-
-🟢 _More in pinned repos ↓_
+### 🔹 Data Science & Machine Learning
+- **Python** (NumPy, Pandas, Matplotlib)  
+- **Scikit-learn**: Model training, evaluation  
+- Data preprocessing, feature engineering  
+- **Jupyter Notebooks**  
 
 ---
 
-## 📈 GitHub Insights
+## 🔥 Core Strengths
+
+- Building scalable business apps with clean architecture  
+- Designing full-stack systems with smooth frontend/backend integration  
+- Refactoring legacy code into modular microservices  
+- Communicating effectively across tech and business teams  
+
+---
+
+## 🚀 Projects
+
+🔹 **Parliament ERP Platform**  
+_Modular system used by 4,000+ employees in procurement, logistics, pharmacy, and finance_  
+- Consolidated 4 systems into one  
+- Reduced data duplication by 65%  
+
+🔹 **Document Management & HR Systems**  
+- Developed full-stack solutions for archiving and employee records  
+- Integrated Crystal Reports and biometric tracking  
+
+🔹 **Cloud-Based Dashboard (React + .NET + Azure)**  
+- Real-time KPIs, report generation, interactive visualizations  
+- Managed Azure deployment and data layer optimization  
+
+---
+
+## 🧠 Currently Learning
+
+- Docker best practices & microservices orchestration  
+- Advanced algorithms & data structures (Python)  
+- 🇩🇪 German Language (B1 Level)  
+
+---
+
+## 🎯 2025 Goals
+
+- 🔍 Secure a full-time role as a .NET Full Stack Developer in Germany  
+- 🛠️ Open-source contributions in .NET / React / Azure ecosystem  
+- 📚 Write technical articles and publish project guides  
+- 🌐 Enhance DevOps skills (CI/CD, Docker, Kafka at scale)  
+
+---
+
+## 📊 GitHub Insights
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AntoniousShehata&show_icons=true&theme=default" width="48%" />
@@ -74,30 +110,14 @@ _Integrated 4 modules (procurement, logistics, pharmacy, finance) serving 4,000+
 
 ---
 
-## 🧠 Currently Learning
+## 📬 Contact Me
 
-- ⚙️ Docker + Microservices Best Practices  
-- 🧪 Advanced Algorithms & Data Structures (Python)  
-- 🇩🇪 German Language – B1 Level  
-
----
-
-## 🎯 2025 Goals
-
-- 🔍 Join a full-time development team in Germany  
-- 🔄 Migrate more projects to **.NET 8 + React** stack  
-- 🌐 Contribute to **open-source systems** with real-world impact  
-- 🗂️ Publish technical writeups and project breakdowns  
-
----
-
-## 📬 Reach Me
-
-📧 antoniousmaher@gmail.com  
+📧 [antoniousmaher@gmail.com](mailto:antoniousmaher@gmail.com)  
 📱 +49 177 3948619  
-📍 Potsdam / Berlin, Germany  
+📍 Based in Potsdam / Berlin – Open to Relocation or Remote  
 🔗 [LinkedIn](https://www.linkedin.com/in/a-shehata/)  
+💻 [GitHub Portfolio](https://github.com/AntoniousShehata)
 
 ---
 
-⭐ _Thanks for visiting — check my pinned projects and feel free to connect!_  
+⭐ _Thanks for visiting — check out my pinned projects and let’s connect!_
