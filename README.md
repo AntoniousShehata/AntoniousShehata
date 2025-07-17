@@ -11,7 +11,7 @@
 
 ## 🧾 About Me
 
-✅ .NET Full Stack Developer with 10+ years of enterprise experience  
+✅ .NET Full Stack Engineer with 10+ years of enterprise experience  
 ✅ Skilled in building secure, scalable platforms using modern backend and frontend tech  
 ✅ Academic background: Master's in Computer Science (Germany), MBA in International Business (France)  
 ✅ Open to full-time roles in **Berlin / Potsdam / Remote (Germany)**  
